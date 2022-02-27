@@ -32,6 +32,8 @@ python task2.py <filter threshold> <support> <input_file_path> <output_file_path
 
 If the code is executed in Vocareum, simply run:
 
+```console
 spark-submit task1.py <case number> <support> <input_file_path> <output_file_path>
 
 spark-submit task2.py <filter threshold> <support> <input_file_path> <output_file_path>
+```

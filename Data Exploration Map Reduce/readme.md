@@ -29,8 +29,10 @@ python task3.py <review_filepath> <output_filepath> <output_filepath_question_a>
 
 If the code is executed in Vocareum, simply run:
 
+```console
 spark-submit --executor-memory 4G --driver-memory 4G task1.py <review_filepath> <business_filepath>
 
 spark-submit --executor-memory 4G --driver-memory 4G task2.py <review_filepath> <business_filepath> <n_partition>
 
 spark-submit --executor-memory 4G --driver-memory 4G task3.py <review_filepath> <business_filepath> <output_filepath_question_a> <output_filepath_question_b>
+```
