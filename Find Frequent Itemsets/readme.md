@@ -7,6 +7,7 @@ In this project, you will implement the SON Algorithm using the Spark Framework.
 a program to find frequent itemsets in two datasets, one simulated dataset and one real-world
 generated dataset. The goal of this project is to apply the algorithms you have learned in class on
 large datasets more efficiently in a distributed environment.
+Please see more details in the instruction.pdf.
 
 ## Data
 In this project, you will use one simulated dataset and one real-world. In task 1, you will build and

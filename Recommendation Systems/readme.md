@@ -5,6 +5,7 @@
 This project is the homework 3 for USC DSCI 553 Data Mining.
 The goal is to familiarize you with Locality Sensitive
 Hashing (LSH), and different types of collaborative-filtering recommendation systems.
+Please see more details in the instruction.pdf.
 
 ## Data
 In this assignment, the datasets you are going to use are from:

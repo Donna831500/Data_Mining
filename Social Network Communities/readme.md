@@ -7,6 +7,7 @@ In this project, you will explore the spark GraphFrames library as well as imple
 ub_sample_data.csv dataset to find users who have a similar business taste. The goal of this project
 is to help you understand how to use the Girvan-Newman algorithm to detect communities in an efficient
 way within a distributed environment.
+Please see more details in the instruction.pdf.
 
 
 ## Data
