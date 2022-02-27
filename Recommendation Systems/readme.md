@@ -32,7 +32,7 @@ If the code is executed in local environment, simply run:
 ```console
 python task1.py <input_file_name> <output_file_name>
 
-python task2.py <train_file_name> <test_file_name> <output_file_name>
+python task2_1.py <train_file_name> <test_file_name> <output_file_name>
 
 python task2_2.py <folder_path> <test_file_name> <output_file_name>
 
